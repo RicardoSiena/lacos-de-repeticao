@@ -13,7 +13,7 @@
 
 # HTML
 
-<img src="img/Captura de tela 2024-05-16 091105.png" width="12%" >
+<img src="img/Captura de tela 2024-05-16 091105.png" width="60%" >
 
 
 # JavaScript
@@ -52,5 +52,13 @@ Função howMany(selectObject):
 * O resultado é o número de opções selecionadas.
 
 * alert("Total de opções selecionadas: " + ...); exibe uma caixa de diálogo com uma mensagem que inclui o número de opções selecionadas.
+
+<img src= "img/JS.png">
+
+
+# CSS
+
+
+<img src= "img/CSS.png">
 
 
