@@ -62,3 +62,9 @@ Função howMany(selectObject):
 <img src= "img/CSS.png">
 
 
+## Autores
+Ricardo Siena
+
+
+## Fontes
+ O código JS foi pego do site Mozilla
